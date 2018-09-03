@@ -1,0 +1,5 @@
+2 pen 10 5
+1 pen 5 5
+3 pen 20 5
+4 pen 30 5
+codeItems Name Amount Price
